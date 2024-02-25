@@ -21,7 +21,7 @@ hosts:
 # Site configuration
 site:
   # Title
-  title: Downtime
+  title: NetHub Downtime Detector
   # Favicon / logo
   favicon: https://simon.lecoq.io/src/icon.png
   # Refresh rate of status images for client
