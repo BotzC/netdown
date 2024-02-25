@@ -23,7 +23,7 @@ site:
   # Title
   title: NetHub Downtime Detector
   # Favicon / logo
-  favicon: https://simon.lecoq.io/src/icon.png
+  favicon: https://github.com/BotzC/Garage/blob/main/nethub.png
   # Refresh rate of status images for client
   refresh_rate_sec: 120
 
