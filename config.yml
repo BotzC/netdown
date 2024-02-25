@@ -15,8 +15,8 @@ hosts:
     port: 53
     use: ncat
   # Example / unavailable website
-  - name: unavailable.website.com
-    title: Unavailable website
+  - name: airforce.lk
+    title: Airforce
 
 # Site configuration
 site:
