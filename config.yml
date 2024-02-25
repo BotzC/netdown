@@ -4,8 +4,8 @@
 # All defaults values can be overriden per host basis
 hosts:
   # Example / test root domain
-  - name: google.com
-    title: Google
+  - name: airforce.lk
+    title: Airforce
   # Example / test url
   - name: github.com/lowlighter/downtime
     title: Downtime repository
